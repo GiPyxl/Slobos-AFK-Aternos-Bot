@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GiPyxlKingdom.aternos.me",
+    "ip": "GiPyxlKingdom.aternos.me:20669",
     "port": 20669,
     "version": "1.21.11",
     "try-creative": false
